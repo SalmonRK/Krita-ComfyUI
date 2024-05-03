@@ -1,0 +1,191 @@
+﻿1-base
+2-3D Model
+3-Abstract
+4-Abstract Expressionism
+5-Abstract Expressionism 2
+6-Academia
+7-Action Figure
+8-Adorable 3D Character
+9-Adorable Kawaii
+10-Advertising
+11-Alien
+12-Analog Film
+13-Anime
+14-Architectural
+15-Art Deco
+16-Art Deco 2
+17-Art Nouveau
+18-Art Nouveau 2
+19-Astral Aura
+20-Avant-garde
+21-Baroque
+22-Bauhaus-Style Poster
+23-Biomechanical
+24-Biomechanical Cyberpunk
+25-Blueprint Schematic Drawing
+26-Bubble Bobble Game
+27-Caricature
+28-Cel Shaded Art
+29-Character Design Sheet
+30-Cinematic Film
+31-Cinematic Photograph
+32-Classicism Art
+33-Collage
+34-Color Field Painting
+35-Colored Pencil Art
+36-Commercial Illustration 1920s
+37-Comic Book
+38-Conceptual Art
+39-Constructivism 1
+40-Constructivism 2
+41-Craft Clay
+42-Cubism 1
+43-Cubism 2
+44-Cybernetic
+45-Cybernetic Robot
+46-Cyberpunk Cityscape
+47-Cyberpunk
+48-DMT Art Style
+49-Dadaism
+50-Dark Fantasy
+51-Dark Moody Atmosphere
+52-Digital Art
+53-Disco
+54-Doodle Art
+55-Double Exposure
+56-Dreamscape
+57-Dripping Paint Splatter Art
+58-Dystopian
+59-Enhance
+60-Expressionism 1
+61-Expressionism 2
+62-Faded Polaroid Photo
+63-Fairy Tale
+64-Fantasy Art
+65-Fauvism
+66-Fighting Game
+67-Film Noir
+68-Flat 2D Art
+69-Flat Papercut
+70-Food Photography
+71-Fortnite Art Style
+72-Futurism
+73-Futuristic
+74-Futuristic Sci-Fi
+75-GTA
+76-Glamour
+77-Glitchcore
+78-Glo-fi
+79-Googie Art Style
+80-Gothic
+81-Graffiti Art 1
+82-Graffiti Art 2
+83-Grunge
+84-HDR
+85-Harlem Renaissance Art
+86-High Fashion
+87-Horror
+88-Hyperrealism
+89-Idyllic
+90-Impressionism 1
+91-Impressionism 2
+92-Infographic Drawing
+93-Ink Dripping Drawing
+94-Isometric Style
+95-Japanese Ink Drawing
+96-Kawaii
+97-Kirigami
+98-Knolling Photography
+99-Legend of Zelda
+100-Light Cheery Atmosphere
+101-Line Art
+102-Logo Design
+103-Long Exposure
+104-Lovecraftian Horror
+105-Lowpoly
+106-Luxurious Elegance
+107-Macabre
+108-Macro Photography
+109-Mandala Art
+110-Manga
+111-Marker Drawing
+112-Medievalism
+113-Metropolis
+114-Minecraft
+115-Minimalism 1
+116-Minimalism 2
+117-Monochrome
+118-Nautical
+119-Neo-Baroque
+120-Neo-Byzantine
+121-Neo-Futurism
+122-Neo-Impressionism
+123-Neo-Rococo
+124-Neoclassicism
+125-Neon Noir
+126-Neon Punk
+127-Op Art
+128-Origami
+129-Ornate and Intricate
+130-Paper Mache
+131-Paper Quilling
+132-Papercut Collage
+133-Papercut Shadow Box
+134-Pencil Sketch
+135-Photographic
+136-Pixel Art
+137-Pointillism
+138-Pokémon
+139-Pop Art 1
+140-Pop Art 2
+141-Psychedelic
+142-RPG Fantasy
+143-Real Estate Photography
+144-Renaissance
+145-Retro Arcade
+146-Retro Game
+147-Retro Cyberpunk
+148-Retro Futurism
+149-Retro game
+150-Rococo
+151-Silhouette
+152-Silhouette Art
+153-Simple Vector Art
+154-Sketchup
+155-Space
+156-Stacked Papercut
+157-Stained Glass
+158-Steampunk 1
+159-Steampunk 2
+160-Sticker Designs
+161-Strategy Game
+162-Street Fighter
+163-Super Mario
+164-Suprematism
+165-Surrealism 1
+166-Surrealism 2
+167-Techwear Fashion
+168-Terragen
+169-Texture
+170-Thick Layered Papercut
+171-Tilt-Shift Photo
+172-Tranquil Relaxing Atmosphere
+173-Tribal
+174-Typography
+175-Vaporwave
+176-Vibrant Rim Light
+177-Volumetric Lighting
+178-Watercolor 1
+179-Watercolor 2
+180-Whimsical and Playful
+181-Wild West
+182-Zentangle
+183-ads-advertising
+184-ads-automotive
+185-ads-corporate
+186-ads-fashion editorial
+187-ads-food photography
+188-ads-gourmet food photography
+189-ads-luxury
+190-ads-real estate
+191-ads-retail
